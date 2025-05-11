@@ -1,7 +1,3 @@
-Bir **README.md** dosyasının amacı, projeyi tanıtmak ve diğer geliştiricilere veya kullanıcılara projeyi nasıl kullanacaklarına dair bilgi sağlamaktır. İşte **AI-based Meeting Summarizer** projeniz için yazabileceğiniz örnek bir **README**:
-
----
-
 # AI-based Meeting Summarizer
 
 This project provides an AI-powered tool for summarizing meeting transcriptions. Users can upload meeting texts, and the application generates concise and accurate summaries using state-of-the-art Natural Language Processing (NLP) techniques.
@@ -85,7 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * **Transformers**: A library for state-of-the-art Natural Language Processing.
 * **Streamlit**: A powerful framework for creating data applications.
-
----
-
-Bu README, projenizi basitçe tanıtır, nasıl kurulum yapıldığını ve kullanıldığını açıklar. GitHub'da proje açıklamalarını net ve bilgilendirici tutmak önemlidir.
